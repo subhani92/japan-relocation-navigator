@@ -1,0 +1,8 @@
+{
+  "name": "Japan Relocation Navigator",
+  "description": "An AI-powered multi-agent dashboard helping foreigners relocate to Japan, covering visas, housing, taxes, costs, and career insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

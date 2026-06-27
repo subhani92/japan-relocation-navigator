@@ -1,0 +1,46 @@
+steps:
+  # 1. Build the container image using the Dockerfile
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - '$_AR_REGION-docker.pkg.dev/$PROJECT_ID/$_AR_REPOSITORY/japan-relocation-navigator:$COMMIT_SHA'
+      - '.'
+
+  # 2. Push the container image to Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - '$_AR_REGION-docker.pkg.dev/$PROJECT_ID/$_AR_REPOSITORY/japan-relocation-navigator:$COMMIT_SHA'
+
+  # 3. Deploy the container image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'japan-relocation-navigator'
+      - '--image=$_AR_REGION-docker.pkg.dev/$PROJECT_ID/$_AR_REPOSITORY/japan-relocation-navigator:$COMMIT_SHA'
+      - '--region=$_DEPLOY_REGION'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars=GEMINI_API_KEY=$$GEMINI_API_KEY,GOOGLE_CLOUD_PROJECT=$PROJECT_ID,FIRESTORE_DATABASE=$$FIRESTORE_DATABASE,BUCKET_NAME=$$BUCKET_NAME'
+    secretEnv: ['GEMINI_API_KEY', 'FIRESTORE_DATABASE', 'BUCKET_NAME']
+
+# Secret Manager configuration for secure key passing in Cloud Build
+availableSecrets:
+  secretManager:
+    - versionName: projects/$PROJECT_ID/secrets/GEMINI_API_KEY/versions/latest
+      env: 'GEMINI_API_KEY'
+    - versionName: projects/$PROJECT_ID/secrets/FIRESTORE_DATABASE/versions/latest
+      env: 'FIRESTORE_DATABASE'
+    - versionName: projects/$PROJECT_ID/secrets/BUCKET_NAME/versions/latest
+      env: 'BUCKET_NAME'
+
+substitutions:
+  _AR_REGION: 'us-central1'
+  _DEPLOY_REGION: 'us-central1'
+  _AR_REPOSITORY: 'gcp-containers'
+
+images:
+  - '$_AR_REGION-docker.pkg.dev/$PROJECT_ID/$_AR_REPOSITORY/japan-relocation-navigator:$COMMIT_SHA'

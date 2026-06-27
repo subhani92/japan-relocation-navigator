@@ -1,0 +1,625 @@
+{
+  "decd5bc5-d5c5-41ee-b1aa-3fda019f8d1b": {
+    "reportId": "decd5bc5-d5c5-41ee-b1aa-3fda019f8d1b",
+    "createdAt": "2026-06-26T14:48:40.443Z",
+    "profile": {
+      "nationality": "Indian",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 2
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "49123f62-8e0a-46cb-8fc0-d9c154312659": {
+    "reportId": "49123f62-8e0a-46cb-8fc0-d9c154312659",
+    "createdAt": "2026-06-26T14:58:03.648Z",
+    "profile": {
+      "nationality": "Indian",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 2
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "c37de164-1f59-4cbf-abd8-f2dd35a314b6": {
+    "reportId": "c37de164-1f59-4cbf-abd8-f2dd35a314b6",
+    "createdAt": "2026-06-26T15:02:04.082Z",
+    "profile": {
+      "nationality": "India",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 1
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "97d32bae-f5e5-4418-9519-03dd478c2d34": {
+    "reportId": "97d32bae-f5e5-4418-9519-03dd478c2d34",
+    "createdAt": "2026-06-26T15:02:40.273Z",
+    "profile": {
+      "nationality": "India",
+      "profession": "designer",
+      "salary": 5000000,
+      "destinationCity": "Osaka",
+      "familySize": 1
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "d59fc666-3ecf-42c9-ad26-ecb75c5d1a7b": {
+    "reportId": "d59fc666-3ecf-42c9-ad26-ecb75c5d1a7b",
+    "createdAt": "2026-06-26T15:10:09.507Z",
+    "profile": {
+      "nationality": "Indian",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 2
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "ce955d85-bc57-46d1-9342-c2b2fb78353d": {
+    "reportId": "ce955d85-bc57-46d1-9342-c2b2fb78353d",
+    "createdAt": "2026-06-26T15:12:56.827Z",
+    "profile": {
+      "nationality": "Indian",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 2
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "1a86b788-14db-4f1b-9f06-ade15b72c8a0": {
+    "reportId": "1a86b788-14db-4f1b-9f06-ade15b72c8a0",
+    "createdAt": "2026-06-27T00:42:09.833Z",
+    "profile": {
+      "nationality": "India",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 1
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "tax": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "cost": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "recommendation": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      }
+    }
+  },
+  "dfe0b8a5-1bf5-4dfb-ade0-454b02ebf881": {
+    "reportId": "dfe0b8a5-1bf5-4dfb-ade0-454b02ebf881",
+    "createdAt": "2026-06-27T03:07:39.617Z",
+    "profile": {
+      "nationality": "Indian",
+      "profession": "Software Engineer",
+      "salary": 8000000,
+      "destinationCity": "Tokyo",
+      "familySize": 2
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "tax": {
+        "incomeTax": 450000,
+        "residentTax": 520000,
+        "healthInsurance": 380000,
+        "pension": 580000,
+        "monthlyTakeHome": 505800
+      },
+      "cost": {
+        "housing": 180000,
+        "food": 80000,
+        "transport": 15000,
+        "utilities": 25000,
+        "monthlyTotal": 300000
+      },
+      "recommendation": {
+        "relocationScore": 92,
+        "recommendedArea": "Setagaya-ku, Tokyo",
+        "estimatedMonthlySavings": 205800,
+        "risks": [
+          "High initial key money (Shikikin/Reikin) requiring up to 4-5 months rent upfront",
+          "Language barrier when interacting with real estate agents who require a Japanese guarantor",
+          "Slightly higher resident tax starting from year 2 as it is calculated on your first-year Japan income"
+        ],
+        "nextSteps": [
+          "Confirm with your employer if they provide a guarantor service for your apartment",
+          "Apply for Certificate of Eligibility (COE) once company registers with immigration",
+          "Prepare 800,000 JPY cash savings for initial apartment move-in costs",
+          "Register at your local ward office within 14 days of arrival"
+        ]
+      }
+    },
+    "relocationScore": 92
+  },
+  "d437bc94-9aba-46b7-a2a9-b0d153234194": {
+    "reportId": "d437bc94-9aba-46b7-a2a9-b0d153234194",
+    "createdAt": "2026-06-27T03:10:51.557Z",
+    "profile": {
+      "nationality": "India",
+      "profession": "designer",
+      "salary": 5000000,
+      "destinationCity": "Tokyo",
+      "familySize": 1
+    },
+    "results": {
+      "visa": {
+        "visaType": "Highly Skilled Professional (i)(b) Visa",
+        "eligibility": "Eligible (Scored 80 points on the point scale based on age, salary, and experience)",
+        "requiredDocuments": [
+          "Certificate of Eligibility (COE) Application Form",
+          "Point calculation table with supporting certificates",
+          "Graduation certificate and detailed CV",
+          "Company contract showing salary of 8,000,000 JPY",
+          "Passport size photograph"
+        ],
+        "processingTime": "1 to 2 months (Fast track)"
+      },
+      "housing": {
+        "recommendedAreas": [
+          "Setagaya-ku (Family friendly)",
+          "Koto-ku (Modern high-rises)",
+          "Nakano-ku (Cozy, great access)"
+        ],
+        "averageRent": 180000,
+        "notes": "Tokyo has excellent transit, so commuting from Setagaya to central Tokyo takes only 20-30 minutes. Average rents are about 25% of your gross monthly income."
+      },
+      "salary": {
+        "marketAverage": 7200000,
+        "salaryRating": "Above Market Average (Top 15%)",
+        "recommendation": "Your offer of 8,000,000 JPY is solid. The average for a Software Engineer in Tokyo is around 7.2M JPY. You have strong negotiating leverage or a very competitive starting point."
+      },
+      "tax": {
+        "incomeTax": 450000,
+        "residentTax": 520000,
+        "healthInsurance": 380000,
+        "pension": 580000,
+        "monthlyTakeHome": 505800
+      },
+      "cost": {
+        "housing": 180000,
+        "food": 80000,
+        "transport": 15000,
+        "utilities": 25000,
+        "monthlyTotal": 300000
+      },
+      "recommendation": {
+        "relocationScore": 92,
+        "recommendedArea": "Setagaya-ku, Tokyo",
+        "estimatedMonthlySavings": 205800,
+        "risks": [
+          "High initial key money (Shikikin/Reikin) requiring up to 4-5 months rent upfront",
+          "Language barrier when interacting with real estate agents who require a Japanese guarantor",
+          "Slightly higher resident tax starting from year 2 as it is calculated on your first-year Japan income"
+        ],
+        "nextSteps": [
+          "Confirm with your employer if they provide a guarantor service for your apartment",
+          "Apply for Certificate of Eligibility (COE) once company registers with immigration",
+          "Prepare 800,000 JPY cash savings for initial apartment move-in costs",
+          "Register at your local ward office within 14 days of arrival"
+        ]
+      }
+    },
+    "relocationScore": 92
+  }
+}
